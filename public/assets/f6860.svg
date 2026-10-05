@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Logo de SafeClick" clip-path="url(#clip0_0_496)">
+<path id="Escudo" d="M18 0L36 6.35294V16.9412C36 26.4706 26.4 32.8235 18 36C9.6 32.8235 0 26.4706 0 16.9412V6.35294L18 0Z" fill="#A734A5"/>
+<path id="Cursor de clic" d="M12 10V28.4L17.1429 23.8L22.2857 33L26.1429 30.7L21 22.65H30L12 10Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_0_496">
+<rect width="36" height="36" fill="white"/>
+</clipPath>
+</defs>
+</svg>

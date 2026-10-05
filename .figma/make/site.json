@@ -1,0 +1,10 @@
+{
+  "description": "Adds engaging animations to designs or web elements, enhancing visual appeal and user interaction for designers and developers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
